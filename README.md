@@ -9,7 +9,6 @@ ID: 20357386
 
 Location-Specific Landslide Risk Scoring Index (LS-LRSI) for Ududumbara Divisional Secretariat Division, Kandy District, Sri Lanka.
 
-This explains how to run the final reproducible code.
 
 ---
 
