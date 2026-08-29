@@ -16,7 +16,6 @@ Place the final code folder and dataset folder next to each other:
 Ududumbara/
 │
 ├── LS-LRSI-2025\_Datasets/
-│
 ├── LS-LRSI-2025\_Final\_Code/
 │   ├── 00\_check\_environment.py
 │   ├── 01\_prepare\_boundary.py
